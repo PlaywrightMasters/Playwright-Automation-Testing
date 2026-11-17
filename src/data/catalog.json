@@ -1,0 +1,16 @@
+{
+  "searchTerms": ["jeans", "top", "tshirt", "saree"],
+  "invalidSearchTerm": "zz-no-such-product-42",
+  "brands": ["Polo", "H&M", "Biba"],
+  "categories": [
+    { "category": "Women", "subcategory": "Dress" },
+    { "category": "Women", "subcategory": "Tops" },
+    { "category": "Men", "subcategory": "Jeans" },
+    { "category": "Kids", "subcategory": "Tops & Shirts" }
+  ],
+  "purchase": [
+    { "category": "Women", "subcategory": "Tops", "products": ["Blue Top", "Fancy Green Top"] },
+    { "category": "Men", "subcategory": "Tshirts", "products": ["Men Tshirt"] },
+    { "category": "Kids", "subcategory": "Dress", "products": ["Cotton Mull Embroidered Dress"] }
+  ]
+}
